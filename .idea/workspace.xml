@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="514675fd-d8ef-4a7c-8c1b-0f7876c29ac1" name="Default" comment="" />
+    <ignored path="facturacion.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="facturacion" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/forms/sign.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/forms/asignar_sucursales_usuario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="281" column="106" selection-start-line="281" selection-start-column="75" selection-end-line="281" selection-end-column="106" />
+              <folding>
+                <element signature="n#div#1;n#aside#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/forms/php/seleccion_usuarios_no_asignados.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-78" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/forms/pagina_principal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5798">
+              <caret line="223" column="32" selection-start-line="223" selection-start-column="32" selection-end-line="223" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pages/forms/sign.php" />
+        <option value="$PROJECT_DIR$/pages/forms/conexion_corba.php" />
+        <option value="$PROJECT_DIR$/pages/forms/logout.php" />
+        <option value="$PROJECT_DIR$/pages/forms/conexion_seleccionar__sucursal.php" />
+        <option value="$PROJECT_DIR$/pages/forms/conexion_pruebas_dosiciacion.php" />
+        <option value="$PROJECT_DIR$/pages/forms/pruebas_dosificacion.php" />
+        <option value="$PROJECT_DIR$/pages/forms/verificacion_nit.php" />
+        <option value="$PROJECT_DIR$/pages/forms/credenciales.php" />
+        <option value="$PROJECT_DIR$/pages/forms/conexion_nueva_sucursal.php" />
+        <option value="$PROJECT_DIR$/pages/forms/conexion_nueva_dosiciacion.php" />
+        <option value="$PROJECT_DIR$/pages/forms/pruebb.php" />
+        <option value="$USER_HOME$/Desktop/Facturacion Computarizada.html" />
+        <option value="$PROJECT_DIR$/style/jQuery-2.js" />
+        <option value="$PROJECT_DIR$/pages/forms/conexion_seleccionar_productos.php" />
+        <option value="$PROJECT_DIR$/pages/forms/ureeee" />
+        <option value="$PROJECT_DIR$/../servidor/autocompletaMunicipios.php" />
+        <option value="$PROJECT_DIR$/pages/forms/buscaralumno.php" />
+        <option value="$PROJECT_DIR$/pages/forms/prue.php" />
+        <option value="$PROJECT_DIR$/pages/forms/alumno.php" />
+        <option value="$USER_HOME$/Desktop/Facturacion Computarizada22.html" />
+        <option value="$PROJECT_DIR$/pages/forms/venta_productos.php" />
+        <option value="$PROJECT_DIR$/pages/forms/productos.php" />
+        <option value="$PROJECT_DIR$/pages/forms/seleccion_productos_factura.php" />
+        <option value="$PROJECT_DIR$/pages/forms/jquery4.js" />
+        <option value="$PROJECT_DIR$/Facturacion Computarizada22.html" />
+        <option value="/JQuery-CSS Fragment (venta_producto.php:15259).css" />
+        <option value="$PROJECT_DIR$/pages/forms/conexion_pruebas_dosificacion.php" />
+        <option value="$PROJECT_DIR$/pages/forms/nuest.php" />
+        <option value="$PROJECT_DIR$/pages/forms/prudosi.php" />
+        <option value="$PROJECT_DIR$/pages/forms/nueva_sucursal.php" />
+        <option value="$PROJECT_DIR$/pages/forms/nueva_dosificacion.php" />
+        <option value="$PROJECT_DIR$/pages/forms/precio_producto.php" />
+        <option value="$PROJECT_DIR$/pages/forms/anulacion_revisualizacion_facturas.php" />
+        <option value="$PROJECT_DIR$/pages/forms/anular_factura.php" />
+        <option value="$PROJECT_DIR$/pages/forms/conexion_nuevos_precios.php" />
+        <option value="$PROJECT_DIR$/pages/forms/pagina_principal.php" />
+        <option value="$PROJECT_DIR$/pages/forms/precio.php" />
+        <option value="$PROJECT_DIR$/pages/forms/guardar_factura.php" />
+        <option value="$PROJECT_DIR$/pages/forms/facturapdf.php" />
+        <option value="$PROJECT_DIR$/pages/forms/ver_factura.php" />
+        <option value="$PROJECT_DIR$/pages/forms/nuevo.php" />
+        <option value="$PROJECT_DIR$/pages/forms/venta_producto.php" />
+        <option value="$PROJECT_DIR$/pages/forms/numero_factura.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="facturacioneba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facturacioneba" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\facturacion\pages\forms" />
+      <recent name="C:\xampp\htdocs\facturacion\pages\forms\style" />
+      <recent name="C:\xampp\htdocs\facturacion" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514675fd-d8ef-4a7c-8c1b-0f7876c29ac1" name="Default" comment="" />
+      <created>1477578468722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477578468722</updated>
+      <workItem from="1477578470056" duration="23000" />
+      <workItem from="1477578494596" duration="1212000" />
+      <workItem from="1477686980571" duration="1304000" />
+      <workItem from="1477689701172" duration="8351000" />
+      <workItem from="1477918027200" duration="15032000" />
+      <workItem from="1477946303463" duration="5638000" />
+      <workItem from="1478002031389" duration="17703000" />
+      <workItem from="1478175958519" duration="9566000" />
+      <workItem from="1478259455095" duration="9660000" />
+      <workItem from="1478522185174" duration="698000" />
+      <workItem from="1478523480505" duration="15780000" />
+      <workItem from="1478608870837" duration="16099000" />
+      <workItem from="1478695461195" duration="24052000" />
+      <workItem from="1478781997530" duration="28829000" />
+      <workItem from="1478869612043" duration="31216000" />
+      <workItem from="1479126295863" duration="19051000" />
+      <workItem from="1479214421893" duration="2421000" />
+      <workItem from="1479237018193" duration="1086000" />
+      <workItem from="1479299881117" duration="4356000" />
+      <workItem from="1570419260546" duration="547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="212624000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12013423" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/forms/sin/Verhoeff.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/sin/AllegedRC4.php" />
+    <entry file="file://$PROJECT_DIR$/style/jQuery-2.js" />
+    <entry file="file://$PROJECT_DIR$/ureeee" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/ureeee" />
+    <entry file="file://$PROJECT_DIR$/../servidor/autocompletaMunicipios.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/venta_productoreport.php" />
+    <entry file="file://$USER_HOME$/Desktop/Facturacion Computarizada.html" />
+    <entry file="file://$USER_HOME$/Desktop/Facturacion Computarizada22.html" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/buscaralumno.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/style/jquery4.js" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/jquery4.js" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/productos.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/alumno.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/seleccion_productos_factura.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/venta_productos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3468">
+          <caret line="204" column="20" selection-start-line="204" selection-start-column="20" selection-end-line="231" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms/prue.php" />
+    <entry file="file://$PROJECT_DIR$/Facturacion Computarizada22.html" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/conexion_pruebas_dosificacion.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/nuest.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/conexion_nueva_dosiciacion.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/modi_cajas.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/prudosi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="135" column="70" selection-start-line="135" selection-start-column="70" selection-end-line="135" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms/pruebas_dosificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms/sin/Base64SIN.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/sin/ControlCode.php" />
+    <entry file="file://$USER_HOME$/Desktop/siaf/pages/forms/modi_cajas.php" />
+    <entry file="file://$USER_HOME$/Desktop/siaf/pages/forms/anular_factura.php" />
+    <entry file="file://$USER_HOME$/Desktop/siaf/pages/forms/modi_admin.php" />
+    <entry file="file://$USER_HOME$/Desktop/siaf/pages/forms/ver_factura.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/facturas.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/nueva_sucursal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="152" column="21" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms/nueva_dosificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="165" column="21" selection-start-line="165" selection-start-column="21" selection-end-line="165" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms/anulacion_revisualizacion_facturas.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/conexion_seleccionar_productos.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/conexion_seleccionar__sucursal.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/conexion_nuevos_precios.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/anular_factura.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/precio_producto.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/facturapdf.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/nuevo.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/ver_factura.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/guardar_factura.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/credenciales.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/precio.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/venta_producto.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/numero_factura.php" />
+    <entry file="file://$PROJECT_DIR$/pages/forms/sign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms/pagina_principal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5798">
+          <caret line="223" column="32" selection-start-line="223" selection-start-column="32" selection-end-line="223" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms/asignar_sucursales_usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="281" column="106" selection-start-line="281" selection-start-column="75" selection-end-line="281" selection-end-column="106" />
+          <folding>
+            <element signature="n#div#1;n#aside#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms/php/seleccion_usuarios_no_asignados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78" />
+      </provider>
+    </entry>
+  </component>
+</project>
